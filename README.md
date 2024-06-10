@@ -11,6 +11,6 @@ Skills: JAVA / PostgreSQL / Python / HTML / CSS / PHP/ Unix
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/PaulLocust?theme=light)](https://leetcode.com/PaulLocust)
-![](https://leetcard.com/PaulLocust/lapor?ext=heatmap)
+![](https://leetcard.jacoblin.cool/PauLocust/lapor?ext=heatmap)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulLocust)](https://github.com/anuraghazra/github-readme-stats)
