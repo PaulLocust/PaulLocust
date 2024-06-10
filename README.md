@@ -7,10 +7,10 @@ Skills: JAVA / PostgreSQL / Python / HTML / CSS / PHP/ Unix
 - 📫 How to reach me: telegram https://t.me/pavelsarancha 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulLocust&theme=darcula&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulLocust&theme=vision-friendly-dark&show_icons=true) 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/PaulLocust?ext=activity)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulLocust&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulLocust&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
