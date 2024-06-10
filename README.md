@@ -12,7 +12,7 @@ Skills: JAVA / PostgreSQL / Python / HTML / CSS / PHP/ Unix
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulLocust&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=PaulLocust)  [![Leetcode Stats](https://leetcard.jacoblin.cool/PaulLocust)](https://leetcode.com/PaulLocust)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=PaulLocust)  [![Leetcode Stats](https://leetcard.jacoblin.cool/PaulLocust?theme=light)](https://leetcode.com/PaulLocust)
 
 
 
