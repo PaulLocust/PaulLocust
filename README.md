@@ -8,7 +8,7 @@ Skills: JAVA / PostgreSQL / Python / HTML / CSS / PHP/ Unix
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulLocust&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulLocust&theme=codeSTACKr&show_icons=true) 
+//![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulLocust&theme=codeSTACKr&show_icons=true) 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/PaulLocust?ext=activity)
 
