@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Pavel!
 #### I am an ITMO student and I continue to develop in development!
 
-Skills: JAVA / PostgreSQL / Python / HTML / CSS / PHP/ Unix
+Skills: JAVA / PostgreSQL / Python / HTML / CSS / JS / Unix
 
 - 🌱 I’m currently learning Java, SQL, ASM 
 - 📫 How to reach me: telegram https://t.me/pavelsarancha 
