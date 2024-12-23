@@ -3,7 +3,7 @@
 
 Skills: JAVA / PostgreSQL / Python / HTML / CSS / JS / Unix
 
-- 🌱 I’m currently learning Java, SQL, ASM 
+- 🌱 I’m currently learning Java, Go, C, ASM 
 - 📫 How to reach me: telegram https://t.me/pavelsarancha 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulLocust&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
