@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Pavel!
-#### I am an ITMO student and I continue to develop in development!
+#### I am an ITMO student!
 
-Skills: JAVA / PostgreSQL / Python / HTML / CSS / JS / Unix
+Skills: JAVA / Docker/ GO / PostgreSQL / Python / HTML / CSS / JS / Unix /
 
-- 🌱 I’m currently learning Java, Go, C, ASM 
+- 🌱 I’m currently learning Go, Java, C, ASM 
 - 📫 How to reach me: telegram https://t.me/pavelsarancha 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulLocust&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
