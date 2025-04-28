@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Pavel!
-#### I am an ITMO student!
+#### <img src="https://se.ifmo.ru/o/helios-theme/images/cs_logo.png" width=20 height=20> SE ITMO University student
 
 Skills: JAVA / Docker/ GO / PostgreSQL / Python / HTML / CSS / JS / Unix /
 
