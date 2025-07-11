@@ -4,11 +4,10 @@
 Skills: Go / Docker / PostgreSQL / Git / CI CD / Java / Python / Linux 
 
 - 🌱 I’m currently learning Go 
-- 📫 How to reach me: telegram https://t.me/pavelsarancha 
+- 📫 How to reach me: telegram https://t.me/pavelsarancha
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulLocust&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaulLocust&theme=gruvbox)
+![Leetcode Stats](https://leetcard.jacoblin.cool/PaulLocust?ext=activity) 
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulLocust&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaulLocust&theme=github_dark)
-![Leetcode Stats](https://leetcard.jacoblin.cool/PaulLocust?ext=activity)
 
