@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Pavel
-#### <img src="https://se.ifmo.ru/o/helios-theme/images/cs_logo.png" width=20 height=20> SE ITMO University student ![](https://komarev.com/ghpvc/?username=PaulLocust&style=flat-square&color=orange)
+#### <img src="https://se.ifmo.ru/o/helios-theme/images/cs_logo.png" width=20 height=20> SE ITMO University student ![](https://komarev.com/ghpvc/?username=PaulLocust&style=flat-square&color=blue)
 
 Skills: Go / Docker / PostgreSQL / Git / CI CD / Java / Python / Linux 
 
