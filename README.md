@@ -8,6 +8,6 @@ Skills: Go / Docker / PostgreSQL / Git / CI CD / Java / Python / Linux
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulLocust&theme=gruvbox)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaulLocust&theme=gruvbox)
-![Leetcode Stats](https://leetcard.jacoblin.cool/PaulLocust?ext=activity) 
+![Leetcode Stats](https://leetcard.jacoblin.cool/PaulLocust?ext=heatmap) 
 
 
