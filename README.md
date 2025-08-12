@@ -1,6 +1,6 @@
 #### <img src="https://se.ifmo.ru/o/helios-theme/images/cs_logo.png" width=20 height=20> SE ITMO University student ![](https://komarev.com/ghpvc/?username=PaulLocust&style=flat-square&color=orange)
 
-Skills: Go / Docker / PostgreSQL / Git / CI CD / Java / Python / Linux 
+Skills: Go / Docker / PostgreSQL / Git / CI CD / Java / Linux 
 
 - 🌱 I’m currently learning Go 
 - 📫 How to reach me: telegram https://t.me/pavelsarancha
